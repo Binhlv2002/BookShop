@@ -1,0 +1,12 @@
+D:\THUC TAP\BookShop\Book.Ultility\bin\Debug\net6.0\Book.Ultility.deps.json
+D:\THUC TAP\BookShop\Book.Ultility\bin\Debug\net6.0\Book.Ultility.dll
+D:\THUC TAP\BookShop\Book.Ultility\bin\Debug\net6.0\Book.Ultility.pdb
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.csproj.AssemblyReference.cache
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.GeneratedMSBuildEditorConfig.editorconfig
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.AssemblyInfoInputs.cache
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.AssemblyInfo.cs
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.csproj.CoreCompileInputs.cache
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.dll
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\refint\Book.Ultility.dll
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\Book.Ultility.pdb
+D:\THUC TAP\BookShop\Book.Ultility\obj\Debug\net6.0\ref\Book.Ultility.dll
